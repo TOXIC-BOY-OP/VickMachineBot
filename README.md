@@ -1,3 +1,5 @@
+<img src="https://graph.org/file/fb621482a3d0945e0c35b.jpg" align="right" width="200" height="200"/>
+
 # About
 An Advanced Telegram Chatbot Open Sorce Code
 
@@ -9,7 +11,7 @@ The easiest way to deploy this Bot
  
 ### Reach Me
 
-<p align="center"><a href="https://graph.org/file/fb621482a3d0945e0c35b.jpg"> <img src="https://img.shields.io/badge/Telegram%20Bot-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/NOBITA_MACHINE_BOT"> <img src="https://img.shields.io/badge/Telegram%20Bot-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
 
 ### Support 
 
