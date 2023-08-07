@@ -3,7 +3,7 @@
 # About
 An Advanced Telegram Chatbot Open Sorce Code
 
-Note : 📝 VickMachineBot Is Not My Bot
+Note : 📝 NobitaMachineBot Is Not My Bot
 ## How To Host
 The easiest way to deploy this Bot
 • Enter your ```MONGO_URL```,```API_ID```,```API_HASH``` And ```TOKEN```.
